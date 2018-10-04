@@ -1,5 +1,10 @@
+body {
+    background-image: url("../images/seamless-gray.png");
+ }
+ 
 div {
     padding: 10px 10px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #item-link, #drink-link {
@@ -7,6 +12,22 @@ div {
     color: gold;
     font-weight: bolder;
 }
+
+.jumbotron {
+    /* background-color: black; */
+    background-color:#686868;
+    text-align: center;
+    color: white;
+}
+
+
+/* <div class="jumbotron" style="text-align:center; background-color:#686868">
+           <h1 class="text-center" style="color:white">MealGenie</h1>
+
+h1 {
+    class: text-center
+} */
+
 
 .item-image, .drink-image {
     /* max-width: 17rem;
