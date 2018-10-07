@@ -20,4 +20,6 @@ __10/02/18: Added FireBase Connectivity__
 
 __10/03/18: Cleaned up presentation, immages stay in cards now.__
 
+__10/07/18: Comparing changes...__
+
 
